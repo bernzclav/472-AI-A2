@@ -1,3 +1,5 @@
+https://github.com/bernzclav/472-AI-A2
+
 # 472-AI-A2
 Assignment 2 for Concordia's COMP472: Artificial Intelligence
 
